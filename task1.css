@@ -1,0 +1,56 @@
+*{
+    background-image:url("./Background.png");
+}
+
+.b{ font-family: Calibri;
+    position:absolute;
+    display: flex;
+    color: rgb(248, 244, 239);
+    margin: 20px;
+    padding:30px;
+    gap: 55px;
+    font-size: 16.5px;
+    top: 200px;
+}
+#sub1{font-family: Calibri;
+   color: rgb(0, 217, 255);
+   font-size: 25px;
+   font-weight: normal;
+}
+#sub2{font-family: Calibri;
+    color: rgb(0, 217, 255);
+    font-size: 25px;
+    font-weight: normal;
+ }
+ #sub3{font-family: Calibri;
+    color: rgb(0, 217, 255);
+    font-size: 25px;
+    font-weight: normal;
+ }
+ #ham{
+     font-size: 40px;
+     color: rgb(254, 255, 255);
+     position: absolute;
+     right: 20px;
+     top: 20px;
+ }
+ #sub0{
+     font-family:Calibri;
+     font-weight: normal;
+     position: absolute;
+    color: aqua;
+    font-size: 50px;
+    left:60px;
+    top: 100px;
+ }
+ #logo{
+    position: absolute; 
+     left:60px;
+ }
+ .l{
+     display: flex;
+     position: absolute;
+     bottom:0px;
+     right:0px;
+     gap: 30px;
+ }
